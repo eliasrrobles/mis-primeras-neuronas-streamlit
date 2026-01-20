@@ -12,9 +12,9 @@ La aplicación permite experimentar con:
 
 ## 📸 Capturas de la aplicación
 
-![Una entrada](img/image1.png)
-![Dos entradas](img/image2.png)
-![Tres entradas y sesgo](img/image3.png)
+![Una entrada](img/imagen1.png)
+![Dos entradas](img/imagen2.png)
+![Tres entradas y sesgo](img/imagen3.png)
 
 ---
 
