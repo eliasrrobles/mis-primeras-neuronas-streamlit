@@ -20,15 +20,15 @@ La aplicación permite experimentar con:
 
 ## 📁 Estructura del proyecto
 
-.
-├── streamlit_app.py
-├── requirements.txt
-├── img/
-│ ├── neurona.png
-│ ├── image1.png
-│ ├── image2.png
-│ └── image3.png
-└── README.md
+.  
+├── streamlit_app.py  
+├── requirements.txt  
+├── img/  
+│ ├── neurona.png  
+│ ├── image1.png  
+│ ├── image2.png  
+│ └── image3.png  
+└── README.md  
 
 - **streamlit_app.py**: aplicación principal en Streamlit  
 - **requirements.txt**: dependencias del proyecto  
