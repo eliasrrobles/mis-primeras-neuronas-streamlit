@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.image("img/neurona.png")
+st.image("img/neurona.png", height=250)
 st.title("Mis primeras neuronas")
 st.write("Página de prueba para el ejercicio ¡Hola neurona!.")
 
